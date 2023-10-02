@@ -28,10 +28,15 @@ Perform RFM analysis, Cohort analysis.
 
    Company A has Conversion rate highest of 0.35 in September and lowest of 0.01 February by day
 
+   ![ConversionRateDay](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/b8a74840-6eae-49d1-8669-b1e7db34d15d)
+
+
    Conversion Rates by Month are unstable, they hit rock bottom in March and December around 0.05, but peaked in November 0.88
 
+   ![ConversionRateMonth](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/19b6b48c-3fc0-47bd-b878-ce58859a32a3)
+
    **Conclusion:** From what the conversion rate implies our online traffic seemed to have little impact on our online revenue
-2. Which products get us pageviews and revenue?
+3. Which products get us pageviews and revenue?
    This is the top 5 product which give us most pageviews and revenue
 
    |  Product | Revenue  | Pageviews  |
@@ -42,7 +47,7 @@ Perform RFM analysis, Cohort analysis.
    | niky-info0.291457801989401  | 6856104  | 14069572.8  |
    | nikw-gold0.879607833563163  |  6708024 | 14069572.8  |
 
-3. What customer segments are there
+4. What customer segments are there
 
    There are various ways to perform customer segmentation. But with this kind of data, I think the most suitable approach is using RFM segmentation.
 
@@ -51,10 +56,22 @@ Perform RFM analysis, Cohort analysis.
    RFM Metrics
 
    * Recency : It is the amount of time since the customers most recent transaction. It is measured in days.
+  
+     ![Recency](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/1e950030-e1d2-4df4-aebd-ac6aea194224)
+
+     Our customers recency are 0 to 50 days, with most from around 10 days. There are some outliers extended to 200 days but it is very uncommon  
    
    *  Frequency: Total number of transactions made by the customer.
+  
+     ![Frequency](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/3ae77e7a-be67-45ad-993d-86030be2679b)
+
+      Our customers Frequency are around 20-50 times, and the distribution are kind of normal
    
    * Monetary : Total amount the customer has spent across all transactions.
+
+     ![Monatary](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/231011b5-815e-4385-b06e-31490fb5e403)
+
+     Our customers spend about 1500 to 4000
   
    Despite the fact that company A has many stores located in various countries, I only perform customer segment on stores in Germany for demostrating purpose
 
