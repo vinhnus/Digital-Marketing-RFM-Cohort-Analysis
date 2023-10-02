@@ -82,7 +82,7 @@ Perform RFM analysis, Cohort analysis.
 ![Cohort](https://github.com/vinhnus/Digital-Marketing-RFM-Cohort-Analysis/assets/132123952/6c536274-ea64-4c4d-ad60-7ea370ee2d65)
 
 
-  The result is interesting. Customers who have purchased in January have very high retention rate then drop significantly the next few month until August then there is no new customers.
+  The result is interesting. Customers who have purchased in January have very high retention rate then drop significantly in the next few months until August then there is no new customers.
   
   Further investigate should be made to gain more understanding on why this happened. My guess is that because of COVID19 where store were forced to be shut down, limit approach to new customers.
   
