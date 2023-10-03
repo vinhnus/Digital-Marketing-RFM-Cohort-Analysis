@@ -21,7 +21,7 @@ Identify which products drive the most traffic and the most profited.
 
 Perform RFM analysis, Cohort analysis.
 
-## Summary
+## Results:
 1. What is the impact of our website traffic on revenue?
 
    Conversion rate gives us an overview of how much percentage of online users actually became our customers. From that give us a better view of the impact of online traffic affect our revenue
